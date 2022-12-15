@@ -1,6 +1,9 @@
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
+
         int number = 10;
         Car c = null;
         //System.out.println(c);
